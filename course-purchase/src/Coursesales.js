@@ -30,6 +30,4 @@ this.setState({total:this.state.total+price});
     );
   }
 }
-
-
 export default Coursesales;
